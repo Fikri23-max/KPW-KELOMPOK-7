@@ -1,10 +1,10 @@
 #Nama nama kelompok
 
-cucu rahayu
-khoerunisha alifa herianto
-vebyan aulia putri arfian
-rendi pebriansa
-fikri rafa al fauzi
+-cucu rahayu
+-khoerunisha alifa herianto
+-vebyan aulia putri arfian
+-rendi pebriansa
+-fikri rafa al fauzi
 
 # Sistem Pemesanan Makanan (Laravel 13 + Blade)
 
