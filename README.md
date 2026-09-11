@@ -1,3 +1,11 @@
+#Nama nama kelompok
+
+cucu rahayu
+khoerunisha alifa herianto
+vebyan aulia putri arfian
+rendi pebriansa
+fikri rafa al fauzi
+
 # Sistem Pemesanan Makanan (Laravel 13 + Blade)
 
 Aplikasi web pemesanan makanan sederhana:
